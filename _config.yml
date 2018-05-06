@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Ideas and Code
 header-img: img/home-bg.png
 email: dawn.catanach@gmail.com
 copyright_name: DMCatanach
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Philosophy to Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: sjester
 github_username:  DMCatanach
